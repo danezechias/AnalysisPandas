@@ -1,0 +1,83 @@
+TICKER,FUND NAME,ISSUER,AUM,EXPENSE RATIO,3-MO TR,SEGMENT
+DSI,iShares MSCI KLD 400 Social ETF,BlackRock,$1.31B,0.0025,0.0678,Equity: U.S. - Total Market
+SUSA,iShares MSCI U.S.A. ESG Select ETF,BlackRock,$905.59M,0.0025,0.0673,Equity: U.S. - Total Market
+USSG,Xtrackers MSCI U.S.A. ESG Leaders Equity ETF,Deutsche Bank,$856.18M,0.0010,--,Equity: U.S. - Total Market
+ESGD,iShares ESG MSCI EAFE ETF,BlackRock,$643.78M,0.0020,0.0571,Equity: Developed Markets Ex-U.S. - Total Market
+ESGE,iShares ESG MSCI EM ETF,BlackRock,$503.64M,0.0025,0.0807,Equity: Emerging Markets - Total Market
+CRBN,iShares MSCI ACWI Low Carbon Target ETF,BlackRock,$411.69M,0.0020,0.0670,Equity: Global - Total Market
+SPYX,SPDR S&P 500 Fossil Fuel Reserves Free ETF,State Street Global Advisors,$324.82M,0.0020,0.0551,Equity: U.S. - Large Cap
+TAN,Invesco Solar ETF,Invesco,$304.43M,0.0070,0.1948,Equity: Global Renewable Energy
+XSOE,WisdomTree Emerging Markets ex-State-Owned Enterprises Fund,WisdomTree,$298.83M,0.0032,0.0866,Equity: Emerging Markets - Total Market
+ESGV,Vanguard ESG U.S. Stock ETF,Vanguard,$270.09M,0.0012,0.0662,Equity: U.S. - Total Market
+SHE,SPDR SSGA Gender Diversity Index ETF,State Street Global Advisors,$249.39M,0.0020,0.0442,Equity: U.S. - Large Cap
+CATH,Global X S&P 500 Catholic Values ETF,Mirae Asset Global Investments,$228.01M,0.0029,0.0518,Equity: U.S. - Large Cap
+VSGX,Vanguard ESG International Stock ETF,Vanguard,$222.00M,0.0015,0.0525,Equity: Global Ex-U.S. - Total Market
+ICLN,iShares Global Clean Energy ETF,BlackRock,$202.27M,0.0047,0.1199,Equity: Global Renewable Energy
+ESGU,iShares ESG MSCI U.S.A. ETF,BlackRock,$174.29M,0.0015,0.0540,Equity: U.S. - Total Market
+PZD,Invesco Cleantech ETF,Invesco,$162.44M,0.0067,0.0804,Equity: Global Environment
+CXSE,WisdomTree China ex-State-Owned Enterprises Fund,WisdomTree,$126.74M,0.0032,0.1586,Equity: China - Total Market
+PBW,Invesco WilderHill Clean Energy ETF,Invesco,$124.78M,0.0070,0.1605,Equity: Global Renewable Energy
+LRGE,ClearBridge Large Cap Growth ESG ETF,Legg Mason,$117.06M,0.0059,0.0573,Equity: Global - Large Cap Growth
+JUST,Goldman Sachs JUST U.S. Large Cap Equity ETF,Goldman Sachs,$111.14M,0.0020,0.0556,Equity: U.S. - Large Cap
+NUSC,Nuveen ESG Small-Cap ETF,Nuveen,$106.88M,0.0040,0.0745,Equity: U.S. - Small Cap
+BLES,Inspire Global Hope ETF,Northern Lights,$105.18M,0.0061,0.0713,Equity: Global - Large Cap
+MXDU,Nationwide Maximum Diversification U.S. Core Equity ETF,Nationwide Fund Advisors,$101.95M,0.0034,0.0307,Equity: U.S. - Total Market
+QCLN,First Trust NASDAQ Clean Edge Green Energy Index Fund,First Trust,$97.50M,0.0060,0.0928,Equity: Global Renewable Energy
+GEX,VanEck Vectors Global Alternative Energy ETF,VanEck,$89.57M,0.0063,0.0824,Equity: Global Renewable Energy
+FAN,First Trust Global Wind Energy ETF,First Trust,$72.39M,0.0060,0.1094,Equity: Global Renewable Energy
+EFAX,SPDR MSCI EAFE Fossil Fuel Reserves Free ETF,State Street Global Advisors,$71.84M,0.0020,0.0463,Equity: Developed Markets Ex-U.S. - Total Market
+SUSB,iShares ESG 1-5 Year USD Corporate Bond ETF,BlackRock,$70.48M,0.0012,0.0256,"Fixed Income: U.S. - Corporate, Broad-based Investment Grade Short-Term"
+NULG,Nuveen ESG Large-Cap Growth ETF,Nuveen,$70.32M,0.0035,0.0835,Equity: U.S. - Large Cap Growth
+ESGG,FlexShares STOXX Global ESG Impact Index Fund,Northern Trust,$70.09M,0.0042,0.0490,Equity: Developed Markets - Total Market
+NULV,Nuveen ESG Large-Cap Value ETF,Nuveen,$69.36M,0.0035,0.0553,Equity: U.S. - Large Cap Value
+IBD,Inspire Corporate Bond Impact ETF,Northern Lights,$69.27M,0.0061,0.0287,"Fixed Income: U.S. - Corporate, Broad-based Investment Grade Intermediate"
+LOWC,SPDR MSCI ACWI Low Carbon Target ETF,State Street Global Advisors,$61.35M,0.0020,0.0627,Equity: Global - Total Market
+NUMG,Nuveen ESG Mid-Cap Growth ETF,Nuveen,$61.22M,0.0040,0.0980,Equity: U.S. - Mid Cap Growth
+KRMA,Global X Conscious Companies ETF,Mirae Asset Global Investments,$59.07M,0.0043,0.0746,Equity: U.S. - Total Market
+EAGG,iShares ESG U.S. Aggregate Bond ETF,BlackRock,$56.45M,0.0010,0.0281,"Fixed Income: U.S. - Broad Market, Broad-based Investment Grade"
+ISMD,Inspire Small/Mid Cap Impact ETF,Northern Lights,$54.10M,0.0061,0.0626,Equity: U.S. - Extended Market
+NUBD,Nuveen ESG U.S. Aggregate Bond ETF,Nuveen,$53.73M,0.0020,0.0255,"Fixed Income: U.S. - Broad Market, Broad-based Investment Grade"
+NUMV,Nuveen ESG Mid-Cap Value ETF,Nuveen,$51.74M,0.0040,0.0682,Equity: U.S. - Mid Cap Value
+BIBL,Inspire 100 ETF,Northern Lights,$50.81M,0.0035,0.0679,Equity: U.S. - Large Cap
+NUDM,Nuveen ESG International Developed Markets Equity ETF,Nuveen,$50.48M,0.0040,0.0385,Equity: Developed Markets Ex-U.S. - Total Market
+PBD,Invesco Global Clean Energy ETF,Invesco,$48.73M,0.0075,0.1191,Equity: Global Renewable Energy
+SDG,iShares MSCI Global Impact ETF,BlackRock,$45.76M,0.0049,0.0596,Equity: Global - Total Market
+ETHO,Etho Climate Leadership U.S. ETF,ETF Managers Group,$44.06M,0.0045,0.0872,Equity: U.S. - Total Market
+NUEM,Nuveen ESG Emerging Markets Equity ETF,Nuveen,$43.59M,0.0045,0.0739,Equity: Emerging Markets - Total Market
+EEMX,SPDR MSCI Emerging Markets Fossil Fuel Reserves Free ETF,State Street Global Advisors,$42.97M,0.0030,0.0749,Equity: Emerging Markets - Total Market
+ESG,FlexShares STOXX U.S. ESG Impact Index Fund,Northern Trust,$39.59M,0.0032,0.0475,Equity: U.S. - Total Market
+RODI,Barclays Return on Disability ETN,Barclays Bank PLC,$38.70M,0.0045,0.0000,Equity: U.S. - Total Market
+WIL,Barclays Women in Leadership ETN,Barclays Bank PLC,$38.14M,0.0045,0.0762,Equity: U.S. - Total Market
+MAGA,Point Bridge GOP Stock Tracker ETF,Point Bridge Capital,$31.58M,0.0072,0.0618,Equity: U.S. - Large Cap
+EVX,VanEck Vectors Environmental Services ETF,VanEck,$28.52M,0.0056,0.0793,Equity: Global Environment
+ACES,ALPS Clean Energy ETF,SS&C,$28.31M,0.0065,0.0947,Equity: Global Renewable Energy
+ESGL,Oppenheimer ESG Revenue ETF,OppenheimerFunds,$27.60M,0.0040,0.0384,Equity: U.S. - Large Cap
+MXDE,Nationwide Maximum Diversification Emerging Markets Core Equ_,Nationwide Fund Advisors,$26.48M,0.0064,0.0512,Equity: Emerging Markets - Total Market
+BGRN,iShares Global Green Bond ETF,BlackRock,$25.90M,0.0020,0.0320,"Fixed Income: Global - Broad Market, Broad-based Investment Grade"
+GRNB,VanEck Vectors Green Bond ETF,VanEck,$25.59M,0.0030,0.0196,"Fixed Income: Global - Broad Market, Broad-based"
+SUSC,iShares ESG USD Corporate Bond ETF,BlackRock,$25.57M,0.0018,0.0421,"Fixed Income: U.S. - Corporate, Broad-based Investment Grade"
+EQLT,Workplace Equality Portfolio ETF,SS&C,$23.52M,0.0075,0.0510,Equity: Global - Total Market
+ESGF,Oppenheimer Global ESG Revenue ETF,OppenheimerFunds,$22.86M,0.0045,0.0494,Equity: Global - Total Market
+ESML,iShares ESG MSCI U.S.A. Small-Cap ETF,BlackRock,$22.35M,0.0017,0.0825,Equity: U.S. - Small Cap
+ESGW,Columbia Sustainable Global Equity Income ETF,Columbia,$18.08M,0.0040,0.0511,Equity: Developed Markets - Total Market
+YLCO,Global X YieldCo & Renewable Energy Income ETF,Mirae Asset Global Investments,$16.26M,0.0065,0.0880,Equity: Global Renewable Energy
+GUDB,Sage ESG Intermediate Credit ETF,Sage Advisory Services,$14.77M,0.0035,0.0336,"Fixed Income: U.S. - Corporate, Broad-based Investment Grade Intermediate"
+REEM,Oppenheimer Emerging Markets Revenue ETF,Invesco,$12.54M,0.0046,0.0626,Equity: Emerging Markets - Total Market
+EMSG,Xtrackers MSCI Emerging Markets ESG Leaders Equity ETF,Deutsche Bank,$7.71M,0.0020,0.0681,Equity: Emerging Markets - Total Market
+ACSG,Xtrackers MSCI ACWI ex U.S.A. ESG Leaders Equity ETF,Deutsche Bank,$7.68M,0.0016,0.0567,Equity: Global Ex-U.S. - Total Market
+EASG,Xtrackers MSCI EAFE ESG Leaders Equity ETF,Deutsche Bank,$7.19M,0.0014,0.0486,Equity: Developed Markets Ex-U.S. - Total Market
+ESGN,Columbia Sustainable International Equity Income ETF,Columbia,$6.31M,0.0045,0.0491,Equity: Developed Markets Ex-U.S. - Total Market
+CHGX,Change Finance U.S. Large Cap Fossil Fuel Free ETF,Change Finance,$6.02M,0.0049,0.0667,Equity: U.S. - Large Cap
+KGRN,KraneShares MSCI China Environment ETF,KraneShares,$5.98M,0.0079,0.1005,Equity: China - Total Market
+BOSS,Global X Founder-Run Companies ETF,Mirae Asset Global Investments,$4.87M,0.0065,0.1045,Equity: U.S. - Total Market
+TBLU,Tortoise Global Water ESG Fund,Montage Managers,$4.34M,0.0040,0.0994,Equity: Global Water
+YLDE,ClearBridge Dividend Strategy ESG ETF,Legg Mason,$4.31M,0.0060,0.0625,Equity: Global - Total Market
+ICAN,SerenityShares Impact ETF,SerenityShares,$4.27M,0.0050,0.0381,Equity: U.S. - Total Market
+ESGS,Columbia Sustainable U.S. Equity Income ETF,Columbia,$4.06M,0.0035,0.0486,Equity: U.S. - Total Market
+WOMN,Impact Shares YWCA Women's Empowerment ETF,Impact Shares,$3.92M,0.0076,0.0548,Equity: U.S. - Total Market
+XKCP,SPDR Kensho Clean Power ETF,State Street Global Advisors,$3.43M,0.0045,0.1095,Equity: Global Renewable Energy
+VETS,Pacer Military Times Best Employers ETF,Pacer Financial,$2.73M,0.0060,0.0756,Equity: U.S. - Total Market
+PRID,InsightShares LGBT Employment Equality ETF,UBS,$2.56M,0.0065,0.0491,Equity: U.S. - Total Market
+NACP,Impact Shares NAACP Minority Empowerment ETF,Impact Shares,$2.12M,0.0076,0.0622,Equity: U.S. - Total Market
+SDGA,Impact Shares Sustainable Development Goals Global Equity ET_,Impact Shares,$1.98M,0.0076,0.0431,Equity: Global - Total Market
+HONR,InsightShares Patriotic Employers ETF,UBS,$1.21M,0.0065,0.0645,Equity: U.S. - Total Market
